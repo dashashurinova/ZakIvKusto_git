@@ -1,0 +1,4 @@
+.main__card_picture {
+    position: absolute;
+    z-index: 1;
+}

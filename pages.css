@@ -1,0 +1,24 @@
+@import url(./Blocks/body/body.css);
+@import url(./Blocks/header/__line/header__line.css);
+
+@import url(./Blocks/body/__section1/body__section1.css);
+@import url(./Blocks/body/__section1/body__section1_text_smal.css);
+@import url(./Blocks/body/__section1/body__section1_textMain.css);
+@import url(./Blocks/body/__section1/body__section1_text.css);
+@import url(./Blocks/body/__section1/body__section1_add.css);
+@import url(./Blocks/body/__section1/body__section1_edit.css);
+
+@import url(./Blocks/main/main.css);
+@import url(./Blocks/main/__card/main__card.css);
+@import url(./Blocks/main/__card/main__card_heart.css);
+@import url(./Blocks/main/__card/main__card_picture.css);
+@import url(./Blocks/main/__card/main__card_rectangle.css);
+@import url(./Blocks/main/__card/main__card_text.css);
+
+@import url(./Blocks/footer/footer.css);
+@import url(./Blocks/footer/__text/footer__text.css);
+
+
+
+
+
