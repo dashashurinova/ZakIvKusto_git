@@ -23,8 +23,8 @@
             <p class="body__section1_textMain">Жак-Ив Кусто</p>
             <p class="body__section1_text_smal">Исследователь океана</p>
         </div>
-        <img class="body__section1_edit" src="./img/Edit Button.svg" alt="edit">
-        <img class="body__section1_add" src="./img/Add Button.svg" alt="add">
+        <button class="body__section1_edit"><img src="./img/Edit Button.svg" alt="edit"></button>
+        <button class="body__section1_add" ><img src="./img/Add Button.svg" alt="add"></button>
     </section>
     <main class="main">
         <div class="main__card">
@@ -62,12 +62,24 @@
             <img class="main__card_picture" src="./img/Mask Group.svg" alt="">
             <button><img class="main__card_heart" src="./img/heart.svg" alt="heart"></button>
             <label class="main__card_text" for="picture">Карачаевск</label>
-        </div>
+      </div>
+        <section class="popUpWindow">
+            <div class="popUpWindow__container">
+                <p class="popUpWindow__container_header">Редактировать профиль</p>
+                <input class="popUpWindow__container_input" type="text" placeholder="Жак-Ив Кусто">
+                <div class="popUpWindow__container_line"></div>
+                <input class="popUpWindow__container_input " type="text" placeholder="Исследователь океана">
+                <div class="popUpWindow__container_line"></div>
+                <button class="popUpWindow__container_button">Сохранить</button>
+                <button class="popUpWindow__container_close-button"><img src="./img/Close Icon.svg" alt=""></button>
+            </div>
+        </section>
+        
     </main>
     <footer class="footer">
         <p class="footer__text">© 2023 Mesto Russia</p>
     </footer>
-
+  <script src="./main.js"></script>
 </body>
 
 </html>
