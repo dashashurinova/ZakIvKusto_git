@@ -7,3 +7,7 @@
 .main__card_heart:hover {
     opacity: 0.800000011920929;
 }
+
+.blackHeart {
+    background: url(../../../img/Union.svg);
+}
