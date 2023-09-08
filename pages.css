@@ -1,12 +1,12 @@
 @import url(./Blocks/body/body.css);
 @import url(./Blocks/header/__line/header__line.css);
 
-@import url(./Blocks/body/__section1/body__section1.css);
-@import url(./Blocks/body/__section1/body__section1_text_smal.css);
-@import url(./Blocks/body/__section1/body__section1_textMain.css);
-@import url(./Blocks/body/__section1/body__section1_text.css);
-@import url(./Blocks/body/__section1/body__section1_add.css);
-@import url(./Blocks/body/__section1/body__section1_edit.css);
+@import url(./Blocks/body/Section1/bodySection1.css);
+@import url(./Blocks/body/Section1/bodySection1TextSmal.css);
+@import url(./Blocks/body/Section1/bodySection1TextMain.css);
+@import url(./Blocks/body/Section1/bodySection1Text.css);
+@import url(./Blocks/body/Section1/bodySection1Add.css);
+@import url(./Blocks/body/Section1/bodySection1Edit.css);
 
 @import url(./Blocks/main/main.css);
 @import url(./Blocks/main/__card/main__card.css);
