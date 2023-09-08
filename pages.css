@@ -9,11 +9,11 @@
 @import url(./Blocks/body/Section1/bodySection1Edit.css);
 
 @import url(./Blocks/main/main.css);
-@import url(./Blocks/main/card/mainCard.css);
-@import url(./Blocks/main/card/mainCardHeart.css);
-@import url(./Blocks/main/card/mainCardPicture.css);
-@import url(./Blocks/main/card/mainCardRectangle.css);
-@import url(./Blocks/main/card/mainCardText.css);
+@import url(./Blocks/main/Card/mainCard.css);
+@import url(./Blocks/main/Card/mainCardHeart.css);
+@import url(./Blocks/main/Card/mainCardPicture.css);
+@import url(./Blocks/main/Card/mainCardRectangle.css);
+@import url(./Blocks/main/Card/mainCardText.css);
 
 @import url(./Blocks/footer/footer.css);
 @import url(./Blocks/footer/Text/footerText.css);
