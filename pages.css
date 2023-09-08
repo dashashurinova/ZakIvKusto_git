@@ -1,5 +1,5 @@
 @import url(./Blocks/body/body.css);
-@import url(./Blocks/header/__line/header__line.css);
+@import url(./Blocks/header/line/headerLine.css);
 
 @import url(./Blocks/body/Section1/bodySection1.css);
 @import url(./Blocks/body/Section1/bodySection1TextSmal.css);
